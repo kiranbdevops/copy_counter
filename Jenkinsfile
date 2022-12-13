@@ -1,33 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Codespaces
-Marketplace
-Explore
- 
-@kiranbdevops 
-kiranbdevops
-/
-copy_counter
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-copy_counter/Jenkinsfile
-@kiranbdevops
-kiranbdevops Update Jenkinsfile
-Latest commit 6e3cad3 25 minutes ago
- History
- 1 contributor
-74 lines (49 sloc)  1.65 KB
-
 pipeline{
     
     agent any 
